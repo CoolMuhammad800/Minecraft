@@ -1,0 +1,42 @@
+
+body {
+    background-color: black;
+}
+body{
+    color: wheat;
+}
+body{
+    font-size:25px;
+}
+
+header{
+    font-size: 50px;
+}
+
+
+header {
+    background-color: #333;
+    color:whitesmoke;
+    padding: 10px;
+   text-align: center;
+  }
+  
+body{
+    font-family:cursive;
+}
+
+a{
+    color:aliceblue;
+}
+
+a:hover{
+   color:blanchedalmond;
+}
+
+a:visited{
+    color: darkgray;
+}
+
+a:active{
+color: navajowhite;
+}
